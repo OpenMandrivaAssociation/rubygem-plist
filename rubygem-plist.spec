@@ -3,7 +3,7 @@
 Summary:	A ruby library to manipulate Property List files
 Name:		rubygem-%{oname}
 Version:	3.0.0
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	MIT
 Group:		Development/Ruby
 URL:		http://%{oname}.rubyforge.org/
